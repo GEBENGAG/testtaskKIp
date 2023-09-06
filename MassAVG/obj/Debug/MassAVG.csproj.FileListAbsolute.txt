@@ -1,0 +1,16 @@
+C:\Users\yugen\Documents\MassAVG\MassAVG\bin\Debug\MassAVG.exe.config
+C:\Users\yugen\Documents\MassAVG\MassAVG\bin\Debug\MassAVG.exe
+C:\Users\yugen\Documents\MassAVG\MassAVG\bin\Debug\MassAVG.pdb
+C:\Users\yugen\Documents\MassAVG\MassAVG\obj\Debug\MassAVG.csproj.AssemblyReference.cache
+C:\Users\yugen\Documents\MassAVG\MassAVG\obj\Debug\MassAVG.csproj.SuggestedBindingRedirects.cache
+C:\Users\yugen\Documents\MassAVG\MassAVG\obj\Debug\MassAVG.csproj.CoreCompileInputs.cache
+C:\Users\yugen\Documents\MassAVG\MassAVG\obj\Debug\MassAVG.exe
+C:\Users\yugen\Documents\MassAVG\MassAVG\obj\Debug\MassAVG.pdb
+E:\Проекты C#\MassAVG\MassAVG\bin\Debug\MassAVG.exe.config
+E:\Проекты C#\MassAVG\MassAVG\bin\Debug\MassAVG.exe
+E:\Проекты C#\MassAVG\MassAVG\bin\Debug\MassAVG.pdb
+E:\Проекты C#\MassAVG\MassAVG\obj\Debug\MassAVG.csproj.AssemblyReference.cache
+E:\Проекты C#\MassAVG\MassAVG\obj\Debug\MassAVG.csproj.SuggestedBindingRedirects.cache
+E:\Проекты C#\MassAVG\MassAVG\obj\Debug\MassAVG.csproj.CoreCompileInputs.cache
+E:\Проекты C#\MassAVG\MassAVG\obj\Debug\MassAVG.exe
+E:\Проекты C#\MassAVG\MassAVG\obj\Debug\MassAVG.pdb
